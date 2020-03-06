@@ -1,0 +1,9 @@
+[build]
+  publish = "publish/"
+
+[[redirects]]
+  from = "/index2.html"
+  to = "/index.html"
+  status = 301
+  force = true
+
